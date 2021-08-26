@@ -1,0 +1,10 @@
+/.idea
+server/.env
+server/dist
+server/node_modules
+.env
+dist
+node_modules
+npm-debug.log
+docker/ccloud/properties.sh
+connectors/sqlserver-ccloud-connector.json
